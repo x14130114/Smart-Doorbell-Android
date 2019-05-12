@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "60290141949",
+    "firebase_url": "https://doorbell-4f1e8.firebaseio.com",
+    "project_id": "doorbell-4f1e8",
+    "storage_bucket": "doorbell-4f1e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60290141949:android:9583c5f9524e6dec",
+        "android_client_info": {
+          "package_name": "com.example.bmc.spdoorbell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60290141949-071uei1a1tc81cg8dclp0mfr6miomkjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmc.spdoorbell",
+            "certificate_hash": "bf645d85e6ae0da0cab28cb8412cfd104401075e"
+          }
+        },
+        {
+          "client_id": "60290141949-681ed4qedctcmqkf3ao5euc9ripjrv9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98uFpme5tS3eJNSFmztyUnjjmqWP3hvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60290141949-681ed4qedctcmqkf3ao5euc9ripjrv9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60290141949:android:e27c4901b8662eb4",
+        "android_client_info": {
+          "package_name": "com.example.bmc.testvideostream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60290141949-rsm2c6etn8rkd6ml2q5d2b5pnk47nbff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bmc.testvideostream",
+            "certificate_hash": "bf645d85e6ae0da0cab28cb8412cfd104401075e"
+          }
+        },
+        {
+          "client_id": "60290141949-681ed4qedctcmqkf3ao5euc9ripjrv9r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB98uFpme5tS3eJNSFmztyUnjjmqWP3hvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60290141949-681ed4qedctcmqkf3ao5euc9ripjrv9r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
